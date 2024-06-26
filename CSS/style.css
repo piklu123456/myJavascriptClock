@@ -1,0 +1,13 @@
+.row .col-4 {
+    line-height: 120px;
+    font-size: 30px;
+}
+
+.row .col-8 {
+    line-height: 120px;
+    font-size: 30px;
+}
+
+.row .col-6 {
+    text-align: center;
+}
